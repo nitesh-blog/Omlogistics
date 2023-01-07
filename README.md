@@ -4,11 +4,11 @@
 
 <h3>Purchase Order</h3>
 
-![purchaseorder](https://user-images.githubusercontent.com/64421386/211142628-b1278d96-aded-4633-b5c3-5aad49014a20.PNG)
+![sss](https://user-images.githubusercontent.com/64421386/211144027-9c791456-597d-4705-9fcd-7b00388160c9.PNG)
 
 <h3>Print TO PDF Order Receipt</h3>
 
-![pdfimg](https://user-images.githubusercontent.com/64421386/211142721-7da4f89c-69a0-4ec9-8540-d098cbc4979a.PNG)
+![ss1](https://user-images.githubusercontent.com/64421386/211144077-919fb11c-eadb-4b2f-8b61-0fad1744fa87.PNG)
 
 <h3>ADD Order Receipt</h3>
 
