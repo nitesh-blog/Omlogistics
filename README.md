@@ -1,5 +1,20 @@
 # OM LOGITICS PROJECT
 
+<h1>Projects Snapshots</h1>
+
+<h3>Purchase Order</h3>
+
+![purchaseorder](https://user-images.githubusercontent.com/64421386/211142628-b1278d96-aded-4633-b5c3-5aad49014a20.PNG)
+
+<h3>Print TO PDF Order Receipt</h3>
+
+![pdfimg](https://user-images.githubusercontent.com/64421386/211142721-7da4f89c-69a0-4ec9-8540-d098cbc4979a.PNG)
+
+<h3>ADD Order Receipt</h3>
+
+![add](https://user-images.githubusercontent.com/64421386/211142777-5f7e7140-c896-4f3a-9e84-fd972585a7d6.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
